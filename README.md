@@ -166,13 +166,29 @@ Retail sales analysis, dashboard development and further business intelligence w
 
   <br/>
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gatil1616&bg_color=0d1117&color=36BCF7&line=0A66C2&point=ffffff&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="95%"
-  />
-
 </div>
+
+
+## 🐍 GitHub Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Gatil1616/Gatil1616/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Gatil1616/Gatil1616/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Gatil1616/Gatil1616/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
 
 ---
 
