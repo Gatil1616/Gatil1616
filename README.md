@@ -1,34 +1,40 @@
-
-<!-- ================= PROFILE HEADER ================= -->
-
+<!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Gatil+Dhawan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+BI+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Meaningful+Insights" alt="Animated typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=200&section=header&text=Gatil%20Dhawan&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descSize=20&descAlignY=58" alt="Gatil Dhawan - Data Analyst banner" width="100%"/>
 
-  <p>
-    <b>Data Analytics • Business Intelligence • Data Visualization</b>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+actionable+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Dashboards+%E2%80%A2+KPI+Reporting+%E2%80%A2+Data+Storytelling;Open+to+Data+Analyst+%26+BI+Analyst+roles" alt="Animated typing introduction" />
+
+  <br/><br/>
 
   <a href="https://www.linkedin.com/in/gatil-dhawan-474097340">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Gatil1616">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:gatildhawan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/Gatil1616?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Gatil1616&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Computer Science engineering student focused on **Data Analytics and Business Intelligence**. I enjoy transforming raw datasets into actionable insights through data cleaning, exploratory analysis, visualization, and dashboard development.
+I'm a **B.Tech Computer Science student** (BBDNIIT, Lucknow) specialising in **Data Analytics and Business Intelligence**. I turn raw, messy datasets into clear dashboards and decision-ready insights through data cleaning, exploratory analysis, SQL, and visual storytelling.
 
-- 🎓 Pursuing B.Tech in Computer Science at BBDNIIT, Lucknow.
-- 💼 Completed the IBM SkillsBuild Data Analytics & AI internship.
-- 📊 Building analytical solutions using SQL, Python, Power BI, and Excel.
-- 🐍 Developing my skills in Pandas, NumPy, and statistical analysis.
-- 🎯 Interested in Data Analyst, BI Analyst, and Reporting Analyst opportunities.
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science, BBDNIIT Lucknow (2023 – 2027) |
+| 💼 **Experience** | IBM SkillsBuild Data Analytics & AI Intern · InAmigos Foundation AI Data Analyst Intern |
+| 🔭 **Focus** | Data Analyst · BI Analyst · Reporting Analyst |
+| 📚 **Learning** | Advanced SQL, statistical analysis, DAX time intelligence, predictive modelling |
 
 ---
 
@@ -36,7 +42,7 @@ I'm a Computer Science engineering student focused on **Data Analytics and Busin
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" alt="Python, SQL databases, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,jupyter&theme=dark" alt="Core technologies"/>
 
   <br/><br/>
 
@@ -45,10 +51,22 @@ I'm a Computer Science engineering student focused on **Data Analytics and Busin
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" alt="Power Query"/>
   <img src="https://img.shields.io/badge/DAX-4472C4?style=for-the-badge" alt="DAX"/>
 
 </div>
+
+<details>
+<summary><b>📋 Detailed skill breakdown</b></summary>
+<br/>
+
+- **Querying:** SQL (MySQL), Joins, CTEs, Window Functions, Subqueries, Aggregations, Data Validation
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, EDA, Correlation Analysis
+- **BI & Modelling:** Power BI, Power Query (ETL), DAX, Star Schema, KPI Reporting
+- **Excel & Sheets:** PivotTables, Slicers, SUMIFS, XLOOKUP, INDEX-MATCH, Dashboards, Google Sheets
+
+</details>
 
 ---
 
@@ -58,26 +76,30 @@ I'm a Computer Science engineering student focused on **Data Analytics and Busin
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare Analytics
+### ☕ Coffee Shop Sales Analytics
+**`SQL` · `Power BI` · `DAX` · `Power Query`**
 
-**Tools:** Python, Pandas, scikit-learn
+End-to-end sales analytics on **$157K in sales, 33,527 orders and 48,233 units**.
 
-- Data cleaning and exploratory analysis.
-- Healthcare data analysis and visualization.
-- Predictive modelling and model evaluation.
+- Star-schema model with a dedicated date dimension
+- SQL CTEs and `LAG` window functions to validate MoM KPIs
+- DAX time intelligence: `TOTALMTD`, `DATEADD`, `CALCULATE`
+- Surfaced the 8–10 AM peak and weekday vs. weekend patterns
 
-<!-- Add your Healthcare Analytics repository URL here -->
+[**View Repository →**](https://github.com/Gatil1616/Coffee-Shop-Sales-Analytics)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 PhonePe UPI Transaction Analysis
+**`Excel` · `PivotTables` · `Slicers`**
 
-**Tools:** Excel, PivotTables, Dashboards
+Interactive dashboard over **5,02,887 raw records** (₹22.08 Cr across 7 apps and 8 banks).
 
-- Analysis of 500K+ transaction records.
-- State-wise, application-wise, and time-based insights.
-- Interactive KPIs, filters, and transaction analysis.
+- **90.9%** success rate; failure and fraud indicator analysis
+- PhonePe held **49.5%** of total transaction value
+- 7–8 PM identified as the busiest window
+- Slicer-driven drill-down across 24 attributes
 
 [**View Repository →**](https://github.com/Gatil1616/PhonePe-UPI-Transaction-Analysis)
 
@@ -86,22 +108,25 @@ I'm a Computer Science engineering student focused on **Data Analytics and Busin
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Coffee Shop Sales Analytics
+### 🏥 Healthcare Readmission Analysis
+**`Python` · `Pandas` · `Matplotlib` · `Seaborn`**
 
-**Tools:** SQL, Power BI
+Analysis of **101,766 diabetes patient encounters** across 50 attributes.
 
-- Sales performance and product analysis.
-- KPI tracking and interactive dashboards.
-- Business insights from transactional data.
+- Quantified an **11.16%** 30-day readmission rate
+- Cleaned `?` placeholders and engineered 5 analytical fields
+- Prior inpatient stays emerged as the strongest signal (+118%)
+- 12 visualisations incl. correlation heatmap
 
-[**View Repository →**](https://github.com/Gatil1616/Coffee-Shop-Sales-Analytics)
+[**View Repository →**](https://github.com/Gatil1616/Healthcare-Readmission-Analysis)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 More Analytics Projects
+### 📊 More Projects
+Retail sales analysis, dashboard development and further business intelligence work.
 
-Explore my other projects in retail sales analysis, dashboard development, and business intelligence.
+<br/>
 
 [**Explore All Repositories →**](https://github.com/Gatil1616?tab=repositories)
 
@@ -111,17 +136,39 @@ Explore my other projects in retail sales analysis, dashboard development, and b
 
 ---
 
+## 💼 Experience
+
+| Role | Organisation | Period | Highlights |
+|---|---|---|---|
+| **Data Analytics & AI Intern** | IBM SkillsBuild | Aug 2026 – Oct 2026 | Healthcare readmission analysis of 101,766 encounters; audited 50 columns for data quality; automated a reproducible Jupyter workflow with 12 visualisations |
+| **AI Data Analyst Intern** | InAmigos Foundation | Jul 2026 | Data research and collection; cleaned and validated datasets in Excel and Google Sheets |
+
+---
+
+## 🏅 Certifications
+
+- 🔷 Deloitte Australia, Data Analytics Job Simulation (Forage)
+- 🟩 Excel Certification Course (EDUCBA)
+- 🗄️ Introduction to SQL (Simplilearn)
+- 🐍 Python Certification (HackerRank)
+- ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gatil1616&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="GitHub statistics"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatil1616&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatil1616&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used languages"/>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Gatil1616&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Gatil1616&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gatil1616&bg_color=0d1117&color=36BCF7&line=0A66C2&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="95%"/>
 
 </div>
 
@@ -129,20 +176,21 @@ Explore my other projects in retail sales analysis, dashboard development, and b
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with data professionals, learning from real-world analytics projects, and exploring relevant internship and entry-level opportunities.
+I'm looking for **internship and entry-level opportunities** in data analytics and business intelligence, and I enjoy learning from data professionals working on real-world problems.
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/gatil-dhawan-474097340">
-    <img src="https://img.shields.io/badge/LinkedIn-Gatil%20Dhawan-0A66C2?style=flat-square&logo=linkedin" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gatil%20Dhawan-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <a href="https://github.com/Gatil1616">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=flat-square&logo=github" alt="Explore GitHub"/>
+  <a href="mailto:gatildhawan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gatildhawan16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
   <i>Continuously learning. Analysing thoughtfully. Building with data.</i>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=120&section=footer" alt="Footer wave" width="100%"/>
 
 </div>
