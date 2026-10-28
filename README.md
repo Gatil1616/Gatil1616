@@ -166,7 +166,11 @@ Retail sales analysis, dashboard development and further business intelligence w
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gatil1616&bg_color=0d1117&color=36BCF7&line=0A66C2&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gatil1616&bg_color=0d1117&color=36BCF7&line=0A66C2&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="95%"
+  />
 
 </div>
 
