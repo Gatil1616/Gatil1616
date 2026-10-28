@@ -1,7 +1,9 @@
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ================= HEADER ================= -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=200&section=header&text=Gatil%20Dhawan&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descSize=20&descAlignY=58" alt="Gatil Dhawan - Data Analyst banner" width="100%"/>
+  <h1>Gatil Dhawan</h1>
+
+  <h3>Data Analyst &nbsp;•&nbsp; Business Intelligence &nbsp;•&nbsp; Data Visualization</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+actionable+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Dashboards+%E2%80%A2+KPI+Reporting+%E2%80%A2+Data+Storytelling;Open+to+Data+Analyst+%26+BI+Analyst+roles" alt="Animated typing introduction" />
 
@@ -164,10 +166,6 @@ Retail sales analysis, dashboard development and further business intelligence w
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Gatil1616&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-
-  <br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gatil1616&bg_color=0d1117&color=36BCF7&line=0A66C2&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="95%"/>
 
 </div>
@@ -190,7 +188,5 @@ I'm looking for **internship and entry-level opportunities** in data analytics a
   <br/><br/>
 
   <i>Continuously learning. Analysing thoughtfully. Building with data.</i>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=120&section=footer" alt="Footer wave" width="100%"/>
 
 </div>
